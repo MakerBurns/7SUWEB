@@ -1,0 +1,7 @@
+Action Key: [Enter, Space, Z]
+Cancel Key: [Esc, X, C, V, B, N, 0]
+Menu: [Cancel Key] when not in a cancellable menu.
+Restar Game: Hold [F12]
+Radio: [Shift]
+Screenshot: [F7]
+Download/Upload save: [Shift] in save menu.
